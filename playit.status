@@ -1,44 +1,469 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720114276683 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720114341695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114279728 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114344850 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114282805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114347906 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114285845 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114350962 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114288907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114354197 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114291945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114357323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114294990 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114360401 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114298061 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114363444 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720114301141 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720114366511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114369613 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114372736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114375836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114379110 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114382226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114385270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114388319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114391385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114394470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114397524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114400589 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114403693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114406743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114409800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114412847 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114415882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114418933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114422005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114425086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114428126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114431190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114434244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114437278 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114440347 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114443446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114446483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114449628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114452696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114455750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114458825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114461878 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114464936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114468002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114471043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114474151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114477266 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114480331 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114483397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114486442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114489482 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114492533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114495577 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114498643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114501771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114504825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114507883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114510942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114514003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114517068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114520144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114523217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114526310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114529406 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114532464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114535519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114538568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114541647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114544746 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114547835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114550887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114553942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114556983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114560014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114563057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114566123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114569182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114572241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114575307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114578368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114581428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114584488 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114587656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114590747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114593808 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114596890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114600000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114603056 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114606162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114609236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114612370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114615438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114618573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114621648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114624748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+industrial-recipients.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720114627808 tunnel running, 1 tunnels registered
 
 
 TUNNELS
